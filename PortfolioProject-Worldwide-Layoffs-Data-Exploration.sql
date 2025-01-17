@@ -1,3 +1,8 @@
+--Project: Worldwide Layoffs - Exploratory Data Analysis
+--Source: SQL Course (AlexTheAnalyst)
+--Modified/Edited by: EdyBlau
+--Date: 01/13/2025
+
 -- EDA: EXPLORATORY DATA ANALYSIS
 
 SELECT *
