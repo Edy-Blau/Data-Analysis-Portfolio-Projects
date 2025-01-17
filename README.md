@@ -1,6 +1,7 @@
 ## __Data Analysis Portfolio Projects Repository__
 
-Hi! This is my repository to show the data analysis projects I've worked on.
+Hi! 
+This is my repository to show the data analysis projects I've worked on.
 
 ---------------------------------------------------------
 The following projects are based on the Data Analyst Bootcamp - https://www.youtube.com/watch?v=PSNXoAs2FtQ - Alex Freberg.
