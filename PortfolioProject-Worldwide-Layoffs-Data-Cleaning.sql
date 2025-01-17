@@ -1,3 +1,8 @@
+--Project: Worldwide Layoffs - Data-Cleaning
+--Source: SQL Course (AlexTheAnalyst)
+--Modified/Edited by: EdyBlau
+--Date: 01/13/2025
+
 -- DATA CLEANING
 
 SELECT *
